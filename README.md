@@ -2,4 +2,4 @@
 
 wiki WebView
 
-[a wiki](https://github.com/hassanmastinoz/SlidingMenuExampleWebView/wiki)
+[wiki](https://github.com/hassanmastinoz/SlidingMenuExampleWebView/wiki)
